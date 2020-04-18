@@ -1,4 +1,4 @@
-package com.samsl.select_micro;
+package com.samsl;
 
 import com.samsl.ExecutionService;
 import org.junit.Test;
